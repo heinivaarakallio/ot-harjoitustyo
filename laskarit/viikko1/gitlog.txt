@@ -1,0 +1,104 @@
+commit f8d3a22725b3bf4cc00078eeb8eb1b708edcb7f7
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:26:19 2022 +0200
+
+    poistettu tiedosto file1 ja muutettu tiedoston file2 nimi
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 29619fe3af256080525535e6bd1d8531bfe3824f
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:23:52 2022 +0200
+
+    kolme tiedostoa hakemistoon tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit e090b382c23c97dcd9efa836a8ba67982de50ebc
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:19:42 2022 +0200
+
+    muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 ++
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit 893c0aa4be369117800f6cfff233a7fab34eaa2d
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:17:51 2022 +0200
+
+    vaihdettu tiedoston tiedosto.txt nimi eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c233b3e4d881fa1a59f5bb246f49597f730b1b26
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:16:19 2022 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0c6fc8413f028869fe414d2b991b266e10fb7e69
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:13:30 2022 +0200
+
+    muokattu tiedostoa tiedosto.txt
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 7bbd8e5adaa595e9a2c63cd69905aa42e53e56be
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:12:36 2022 +0200
+
+    muokattu tiedostoa tiedostoa.txt
+
+
+ tiedosto.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 64d561570d3524a9343021ca8469d93078f35e01
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:09:30 2022 +0200
+
+    jotain.txt hakemistoon stuff
+
+ stuff/jotain.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c622457e016a336536f2626e2864d4e2cc4c2a7f
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:07:32 2022 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 03cf7e254c46b522fa23913efc414bc1e711fec1
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:06:25 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 9db16961be5d7171677d0392bd045ba160be7b3c
+Author: heinivaarakallio <heini.vaarakallio@helsinki.fi>
+Date:   Tue Mar 22 23:04:04 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
