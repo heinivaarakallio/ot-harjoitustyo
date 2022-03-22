@@ -1,2 +1,5 @@
-# Otsikko
-### Tavallista tekstiä ja **lihavoitu sana** ja *kursivoitu sana*
+## Ohjelmistotekniikka, harjoitustyö
+### Tehtävät
+#### Viikko1
+##### [gitlog.txt]()
+##### [komentorivi.txt]()
