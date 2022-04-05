@@ -3,5 +3,5 @@
 ### Python-versio
 #### Sovellus on tehty Python-versiolle 3.8.
 ### Dokumentaatio
-#### [Vaatimusmäärittely]()
+#### [Vaatimusmäärittely](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 #### [Työaikakirjanpito]()
