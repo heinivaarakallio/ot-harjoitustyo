@@ -11,7 +11,7 @@ Sovellus käynnistetään komennolla:
 ```bash
 poetry run invoke start
 ```
-Testit suoritetaan komennolla:
+Testaus suoritetaan komennolla:
 ```bash
 poetry run invoke test
 ```
