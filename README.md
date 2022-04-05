@@ -8,6 +8,7 @@ Sovellus on tehty Python-versiolle '3.8'.
 - [Changelog](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/changelog.md)
 ## Komentorivitoiminnot
 Sovellus käynnistetään komennolla:
+
 '''bash
 poetry run invoke start
 '''
