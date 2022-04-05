@@ -1,5 +1,5 @@
 # Asteroids
-Sovellus on yksin pelattava Asteroids-peli. Pelissä on yksi liikkuva avaruussukkula, jolla ammutaan asteroideja. Avaruussukkulan suuntaa ja nopeutta voi itse säädellä.
+Sovellus on yksin pelattava Asteroids-peli. Pelissä ohjataan yhtä avaruussukkulaa, jolla ammutaan asteroideja. Avaruussukkulan suuntaa ja nopeutta voi itse säädellä.
 ## Python-versio
 Sovellus on tehty Python-versiolle `3.8`.
 ## Dokumentaatio
