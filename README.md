@@ -11,3 +11,15 @@ Sovellus käynnistetään komennolla:
 ```bash
 poetry run invoke start
 ```
+Testit suoritetaan komennolla:
+```bash
+poetry run invoke test
+```
+Testikattavuusraportin näkee komennolla:
+```bash
+poetry run invoke coverage report
+```
+Pylint:
+```bash
+poetry run invoke lint
+```
