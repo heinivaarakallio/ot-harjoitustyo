@@ -1,8 +1,7 @@
-## Ohjelmistotekniikka, harjoitustyö
-### Tehtävät
-#### Viikko 1
-##### [gitlog.txt](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-##### [komentorivi.txt](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-#### Viikko 2
-##### [vaatimusmaarittely.md](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
-##### [tuntikirjanpito.md](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
+## Asteroids
+#### Sovellus on yksin pelattava Asteroids-peli. Pelissä on yksi liikkuva avaruussukkula, joka ampuu asteroideja. Avaruussukkulan suuntaa ja nopeutta voi itse säädellä.
+### Python-versio
+#### Sovellus on tehty Python-versiolle 3.8.
+### Dokumentaatio
+#### [Vaatimusmäärittely]()
+#### [Työaikakirjanpito]()
