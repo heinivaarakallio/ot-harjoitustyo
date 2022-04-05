@@ -4,4 +4,4 @@
 #### Sovellus on tehty Python-versiolle 3.8.
 ### Dokumentaatio
 #### [Vaatimusmäärittely](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
-#### [Työaikakirjanpito]()
+#### [Työaikakirjanpito](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
