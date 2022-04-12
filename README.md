@@ -6,6 +6,7 @@ Sovellus on tehty Python-versiolle `3.8`.
 - [Vaatimusmäärittely](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 - [Työaikakirjanpito](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
 - [Changelog](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/changelog.md)
+- [Arkkitehtuuri](https://github.com/heinivaarakallio/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
 ## Komentorivitoiminnot
 Sovellus käynnistetään komennolla:
 ```bash
