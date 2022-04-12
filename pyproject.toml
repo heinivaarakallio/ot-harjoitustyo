@@ -8,6 +8,7 @@ authors = ["heinivaarakallio <heini.vaarakallio@helsinki.fi>"]
 python = "^3.8"
 cowsay = "^4.0"
 invoke = "^1.7.0"
+pygame = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.1"
