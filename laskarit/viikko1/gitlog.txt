@@ -1,0 +1,95 @@
+commit 340635ec0cc6606a099b5e43ef44cf509b59187e
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:32:41 2022 +0200
+
+    poistettu file1 ja uudelleennimetty tiedosto file2 tiedostoksi file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6b40b376564aa8880600b6fb33ebebe0125fceda
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:28:46 2022 +0200
+
+    hakemisto tiedostoja lisätty tiedostoineen
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4544024e896741ca135a087fd6b31dc05ce10c58
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:24:58 2022 +0200
+
+    muokattu tiedostoja eka.txt ja kolmas.txt
+
+ eka.txt    | 2 +-
+ kolmas.txt | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 95eab8021ddf757864861149d272f5c184dcde8d
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:23:17 2022 +0200
+
+    tiedosto.txt uudelleennimetty tiedostoksi eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit cffda65c164aae5a292ff07429a5ffe6543c4975
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:22:12 2022 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 0b463d8b999f3cd98e0264ad13ded07595ac4e95
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:17:20 2022 +0200
+
+    hakemisto stuff ja tiedosto joku.txt luotu
+
+ stuff/joku.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b6513d09a99930d7f8cd7e45edfd4726ce2c08ce
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:09:38 2022 +0200
+
+    muutoksia tiedostoihin toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit fad17da0166c65ff146a497685eea39bbf530f46
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:08:30 2022 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 97541642e6186f07d863c7abba00db7949f4ab23
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:04:43 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit ae90e708bb2f79261d44505e8869990766c74c40
+Author: Heini <heini.vaarakallio@helsinki.fi>
+Date:   Mon Nov 7 14:03:05 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
